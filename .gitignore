@@ -1,0 +1,29 @@
+### IntelliJ IDEA ###
+out/
+!src/TicTacToe/main/**/out/
+!src/TicTacToe/test/**/out/
+
+### Eclipse ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+bin/
+!src/TicTacToe/main/**/bin/
+!src/TicTacToe/test/**/bin/
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+### VS Code ###
+.vscode/
+
+### Mac OS ###
+.DS_Store
